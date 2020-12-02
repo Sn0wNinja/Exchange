@@ -1,10 +1,3 @@
-# Currency converter
-# If you would like to sell or buy currency
-# What currency do you hold and what currency you want to convert to
-# Shows the price
-# Calculates the amount you will receive for the currency
-# USD, CHF, EUR, BIT, JPY, GBP
-# python3 curr.py
 
 from pyfiglet import figlet_format
 from termcolor import colored
