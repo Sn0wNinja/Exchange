@@ -1,4 +1,3 @@
-
 from pyfiglet import figlet_format
 from termcolor import colored
 
